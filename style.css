@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* wrapper start here */
+.wrapper{
+    max-width: 1120px;
+    margin: auto;
+}
+
+/* header start here */
+.header_main{
+    background-color: rgb(30, 5, 67);
+    width: 100%;
+    height: 200px;
+    display: flex;
+}
+.header_content{
+    width: 100%;
+    margin: 2% 0 2% 3.5%;
+    display: flex;
+}
+.header_content1{
+    width: 48%;
+    background-color: rgb(255, 0, 0);
+}
+.header_content2{
+    width: 48%;
+    background-color: rgb(255, 0, 85);
+    margin-left: 0.5%;
+}
+
+/* section start here */
+.section_main{
+    width: 100%;
+    height: 600px;
+}
+.section_content{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.section_content1{
+    width: 50%;
+    height: 50%;
+    background-color: rgb(51, 3, 34);
+    display: flex;
+}
+.section_content1_1{
+    width: 84%;
+    background-color: yellow;
+    margin: 4% 8%;
+    display: flex;
+}
+.section_content1_11{
+    width: 84%;
+    background-color: aqua;
+    margin: 4% 8%;
+}
+.section_content2{
+    width: 50%;
+    height: 50%;
+}
+.section_content2_1{
+    height: 50%;
+    display: flex;
+}
+.section_content2_11{
+    width: 50%;
+    background-color: green;
+}
+.section_content2_12{
+    width: 50%;
+    background-color: skyblue;
+}
+.section_content2_2{
+    height: 50%;
+    background-color: orangered;
+}
+.section_content3{
+    width: 50%;
+    height: 50%;
+}
+.section_content3_1{
+    height: 50%;
+    background-color: green;
+}
+.section_content3_2{
+    height: 50%;
+    display: flex;
+}
+.section_content3_21{
+    width: 50%;
+    background-color: rgb(101, 14, 14);
+}
+.section_content3_22{
+    width: 50%;
+    background-color: coral;
+}
+.section_content4{
+    width: 50%;
+    height: 50%;
+    background-color: rgb(39, 20, 107);
+    display: flex;
+}
+.section_content4_1{
+    width: 84%;
+    background-color: yellow;
+    margin: 4% 8%;
+    display: flex;
+}
+.section_content4_11{
+    width: 84%;
+    background-color: white;
+    margin: 4% 8%;
+    display: flex;
+}
+.section_content4_111{
+    width: 84%;
+    background-color: aqua;
+    margin: 4% 8%;
+}
+
+/* footer start here */
+.footer_main{
+    width: 100%;
+    height: 200PX;
+    background-color: rgb(255, 0, 221);
+    display: flex;
+}
+.footer_content1{
+    width: 92%;
+    margin: 2% 4%;
+    background-color: white;
+    display: flex;
+}
+.footer_content11{
+    width: 92%;
+    margin: 2% 4%;
+    background-color: green;
+    display: flex;
+}
+.footer_content111{
+    width: 92%;
+    margin: 2% 4%;
+    background-color: rgb(247, 191, 122);
+    display: flex;
+}
+.footer_content1111{
+    width: 92%;
+    margin: 2% 4%;
+    background-color: coral;
+}
